@@ -87,6 +87,13 @@ quadrupedalism guideline
 - (빌드) 럼 1/2, 애플퍼커 1, 블루큐라소 1/2, 파인애플주스 가득.
 - [x] 유사 블루하와이
 
+### [오렌지 블러썸](https://www.youtube.com/watch?v=tWZyd0OTns8)
+
+- 오렌지색. 풀맛. 오렌지맛. 오렌지 껍질맛.
+- (쉐이킹) 진 1, 오렌지주스 2
+- (쉐이킹) 진 1, 트리플섹 1/2, 라임주스 1/2, 오렌지주스 1.1/2
+- [x] 탱커레이로 만들었더니 진짜 오렌지에 풀 얹어먹는 맛이다. 먹을만하다.
+
 ### [준벅](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=lsj5722&logNo=220005227495)
 
 - 연두색. 달다. 시다. 신맛이 더 강하다. 코코넛맛.
@@ -141,3 +148,34 @@ quadrupedalism guideline
 
 - (쉐이킹) 민트 그린 2/3, 진 1+1/2, 크림 1
 - [ ] 아직
+
+### [갓파더/갓마더/프렌치커넥션](https://youtu.be/e8EpGDVHKz0)
+
+- (빌드) 위스키/보드카/브랜디 1+1/2, 디사론노 2/3
+- [ ] 아직
+
+### [아마레또 사워](https://youtu.be/e8EpGDVHKz0)
+
+- (쉐이킹) 디사론노 2, 레몬주스 2/3, 설탕 1T, 계란흰자 1개
+- 드라이쉐이킹 후 쉐이킹
+- [ ] 아직
+
+### [아마레또 토닉](https://youtu.be/e8EpGDVHKz0)
+
+- (빌드) 디사론노 1+1/2, 토닉워터 4
+- [ ] 아직
+
+### [버터스카치 밀크](https://www.youtube.com/watch?v=t81SS5h32wI)
+
+- (쉐이킹) 버터스카치 1, 우유 2, 그레나딘 토핑
+- [ ] 아직
+
+### [퍼지네이블](https://www.youtube.com/watch?v=XgZ-TR5iaic)
+
+### 헤리네이블
+
+### 피치블로썸
+
+### 우우
+
+### 피치크러쉬
