@@ -50,7 +50,7 @@ quadrupedalism guideline
 ### [갓파더/갓마더/프렌치커넥션](https://youtu.be/e8EpGDVHKz0)
 
 - 위스키색. 아몬드향.
-- (빌드) 위스키/보드카/브랜디 1+1/2, 디사론노 2/3
+- (빌드) 위스키/보드카/브랜디 1, 디사론노 1/2
 - [x] 갓파더만 먹어봤다. 아몬드 향에 위스키맛이 그대로 느껴진다.
 
 # 달달술
@@ -143,6 +143,11 @@ quadrupedalism guideline
   그 위에 탄산수 필업
 - [x] 적당히 달다. 다양한 과일맛. 예쁜 색이라 좋다.
 
+### [바이올렛](https://www.youtube.com/watch?v=vbDSf-5GqGA&list=PLGFRCcSOR6G01jIylulJlYTm20YDMmb6o)
+
+- 보라색. 단맛.
+- (쉐이킹) 피치트리 1/2, 블루큐라소 1/2, 사워믹스 1/2, 그레나딘 1/3
+
 # 분류 이전
 
 ### [노란잠수함](https://www.youtube.com/watch?v=V9x5ZBlWhTU)
@@ -176,10 +181,25 @@ quadrupedalism guideline
 
 ### [퍼지네이블](https://www.youtube.com/watch?v=XgZ-TR5iaic)
 
-### 헤리네이블
+- [ ] 오렌지색
+- (빌드) 피치트리 1/2, 오렌지주스 4
 
-### 피치블로썸
+### [헤리네이블](https://www.youtube.com/watch?v=XgZ-TR5iaic)
 
-### 우우
+- [ ] 오렌지색.
+- (빌드) 피치트리 1, 보드카 1, 오렌지주스 4
 
-### 피치크러쉬
+### [피치블로썸](https://www.youtube.com/watch?v=XgZ-TR5iaic)
+
+- [ ] 빨간빛 도는 진한 주황색. 단맛. 오렌지맛. 복숭아맛. 시트러스.
+- (쉐이킹) 피치트리 1.1/2, 오렌지주스 1.1/2, 레몬즙 1/4, 그레나딘 시럽 1/4
+
+### [우우](https://www.youtube.com/watch?v=XgZ-TR5iaic)
+
+- [ ] 빨간색
+- (빌드) 보드카 1, 피치트리 1, 크렌베리주스 2
+
+### [피치크러쉬](https://www.youtube.com/watch?v=XgZ-TR5iaic)
+
+- [ ] 빨간색
+- (쉐이킹) 피치트리 1.1/2, 트리플섹 1/2, 레몬즙 1/2, 크렌베리주스 2, 그레나딘시럽 1/4
